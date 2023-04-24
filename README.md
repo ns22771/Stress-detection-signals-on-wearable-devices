@@ -3,6 +3,7 @@
 The purpose of this project is analyse the below data set and detect what signals are most imporatant to detect the stress from BVP . Heart rate, Tempreture , 
 ACC, and EDA signals
 
+# Files
 Repository may contain 2201869.py and 2201869.ipynb  files.
 
 Both files contain same code and .ipynb file for Jupyter notebook.
@@ -11,6 +12,7 @@ Data loading to data frame , data preprocessing, model trainng (Random Forest mo
 
 2201869.pdf file may contain how this data can be used to detect stress prediction and what signals are most important when detecting stress
 
+# Data link
 I have analyse the row data available from below link.
 Data set path : https://github.com/italha-d/Stress-Predict-Dataset
 

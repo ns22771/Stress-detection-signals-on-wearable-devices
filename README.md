@@ -12,6 +12,8 @@ Data loading to data frame , data preprocessing, model trainng (Random Forest mo
 
 2201869.pdf file may contain how this data can be used to detect stress prediction and what signals are most important when detecting stress
 
+Performance_Evaluation.csv contain the performance values of the model with accuracy , MSE, mean accuracy, Accuracy score and precision values for the all the subjects 
+
 # Data link
 I have analyse the row data available from below link.
 Data set path : https://github.com/italha-d/Stress-Predict-Dataset
